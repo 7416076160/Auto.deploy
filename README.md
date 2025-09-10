@@ -1,2 +1,2 @@
-# Auto.deploy
+index.html
 Auto
